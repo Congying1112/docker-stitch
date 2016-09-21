@@ -1,4 +1,4 @@
-FROM congying/docker-ubuntu-python-opencv:u1404-p34-o310withcontrib
+FROM congying/docker-ubuntu-python-opencv
 
 MAINTAINER Congying <congying1112@gmail.com>
 
